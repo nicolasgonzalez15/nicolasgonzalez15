@@ -1,7 +1,7 @@
 
 # 👋 Hola, soy Nicolás
 
-Soy un profesional especializado en **Testing QA de Software** con una sólida experiencia en:
+Soy un profesional especializado en **Testing QA de Software**, investigando y creando proyectos relacionados a:
 
 - **Desarrollo de Proyectos en Python**: Creación de aplicaciones robustas y eficientes.
 - **Diseño Web**: Desarrollo de sitios web utilizando **HTML**, **CSS** y **JavaScript**.
